@@ -1,0 +1,94 @@
+.container {
+  background-color: #bbedc1;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #017317;
+}
+
+.header {
+  background-color: #add8e6;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #000ef8;
+  display: flex;
+}
+
+.header-container {
+  background-color: #ffd5b3;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #fa766c;
+  height: 100px;
+  flex: 1;
+}
+
+.header-container2 {
+  background-color: #ffd5b3;
+  padding: 4px;
+  margin: 10px;
+  border: 5px solid #fa766c;
+  height: 100px;
+  flex: 1;
+  display: flex;
+}
+
+.header-container2-content {
+  background-color: #ffb8c4;
+  padding: 10px;
+  margin: 2px;
+  border: 5px solid #fd041b;
+  height: 80px;
+  flex: 1;
+}
+
+.body {
+  display: flex;
+}
+
+.body-container {
+  background-color: #ffb3b5;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #a2252a;  
+  flex: 1;
+  height: 300px;
+}
+
+.body-container2 {
+  flex: 1;
+  height: 300px;
+}
+
+.body-container2-content {
+  background-color: #ffb3b5;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #a2252a;  
+  height: 145px;
+}
+
+.footer-container1 {
+  background-color: #dfd9fd;
+  padding: 20px;
+  margin: 2px;
+  border: 5px solid #5b5eb5;
+  flex: 5;
+  height: 100px;
+}
+
+.footer-container2 {
+  background-color: #ffd5b3;
+  padding: 20px;
+  margin: 2px;
+  border: 5px solid #fa766c;
+  flex: 2;
+  height: 100px;
+}
+
+.footer {
+  background-color: #add8e6;
+  padding: 5px;
+  margin: 10px;
+  border: 5px solid #000ef8;
+  display: flex;
+}
